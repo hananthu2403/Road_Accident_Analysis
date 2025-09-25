@@ -29,27 +29,21 @@ The goal was to identify key accident trends and demonstrate how multiple BI too
 ## 📂 Files in this Repository
 
 ### 📘 Excel
-- `Road Accident Data excel.xlsx` → Excel dashboard  
+- `RAA_Excel.png` → Excel dashboard Screenshot
 
 ### 🟨 Power BI
-- `Road Accident Data.xlsx` → Source dataset for Power BI  
+- `RAA_Power BI.png` → Power BI dashboard Screenshot
 - `RoadAccidentAnalysis_PBI.pbix` → Power BI dashboard  
 
 ### 🔷 Tableau
-- `accident data.xlsx` → Source dataset for Tableau  
+- `RAA_Tableau.png` → Tableau dashboard Screenshot
 - `Road_Accident_Analysis_Dashboard- Completed.twbx` → Tableau packaged workbook  
 
 ### 🗄 SQL
-- `road_accident SQL.xlsx` → SQL query results  
 - `ROAD ACCIDENT REPORT SQL.docx` → SQL queries (documentation)  
 
 ### 📑 Documentation
 - `README.md` → Project documentation  
-
----
-
-## 📷 Dashboard Preview
-(Add screenshots here from your dashboards for quick visualization)
 
 ---
 
